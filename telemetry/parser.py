@@ -1,2 +1,2 @@
 def parse_signal():
-    return "[TELEMETRY] DEBUG MODE ENABLED"
+    return "[TELEMETRY] Data stream nominal"
